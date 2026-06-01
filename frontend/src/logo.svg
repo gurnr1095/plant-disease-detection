@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Leaf logo">
+  <defs>
+    <linearGradient id="leafFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7bc96f"/>
+      <stop offset="100%" stop-color="#2e8b57"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#leafFill)" d="M109 16c-32 3-55 14-69 31-16 20-17 45-16 61 17 2 45 2 67-14 24-18 34-48 18-78z"/>
+  <path fill="none" stroke="#1e5f3a" stroke-width="5" stroke-linecap="round" d="M33 92c17-20 39-39 67-56"/>
+  <path fill="none" stroke="#1e5f3a" stroke-width="3" stroke-linecap="round" d="M53 74c4 5 8 10 12 16"/>
+</svg>
